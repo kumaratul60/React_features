@@ -1,7 +1,7 @@
 # React_features
- Learn Props and Hooks 
+ 1. Basic of HTLM, CSS, JS and Learn Props and Hooks 
  
- Fundamentals of NodeJS, import, and Export Keyword
+2. Fundamentals of NodeJS, import, and Export Keyword
  
 Whilst being a React Developer you will run a lot of NPM scripts/Commands, so the fundamentals (HTML, CSS, and JavaScript) should be clear to you.
 NPM (Node Package Manager): You should have knowledge of NPM. It is used to install the Node Modules and packages. Learn how to use the commands/scripts to install the packages and modules. There is also another Package manager called Yarn that can be used.
